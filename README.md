@@ -9,4 +9,4 @@ The tool is designed to:
 - **Determine Material Requirements**: The tool computes the total material volume needed for the rings and rounds up to the nearest whole cubic inch, as partial cubes cannot be purchased.  
 - **Estimate Costs**: It calculates the total cost of materials and forging for both the **Rings of Power** and the **One Ring**, factoring in different material costs and a tripled forging cost for the One Ring.  
 
-This project ensures a seamless workflow for Sauron by automating these calculations...  
+This project ensures a seamless workflow for Sauron by automating these calculations.
